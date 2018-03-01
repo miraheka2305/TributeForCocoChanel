@@ -1,0 +1,54 @@
+.container{
+  padding: 30px;
+  background-color:#DCDCDC;
+}
+h1{
+  color:#800000;
+  font-family: Lobster;
+  font-size: 32pt;
+}
+h2{
+  font-size:17pt;
+  color:#800000;
+}
+
+.text-center{
+  text-align:center;
+}
+.jumbotron{
+    
+    background-color:#eb06;
+    border-radius:20px;
+    
+/*     padding: 20px; */
+}
+img {
+/*     border: 1px solid #ddd; /* Gray border */ */
+    border-radius: 20px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    padding-left:11%;
+}
+/* .thumbnail{
+  background-color:white;
+  margin:50px
+} */
+p{
+  font-size:12pt;
+  color:#800000;
+  font-family: "Times New Roman"
+  text-align: justify;
+}
+h3{
+  font-size:15pt;
+  color:#800000;
+}
+h4{
+  font-size:12pt;
+  color:#800000;
+}
+li{
+  font-size:12pt;
+  color:#800000;
+}
+
+
